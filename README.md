@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AvishkaChanuka
 - 👀 I’m interested in Game design and Developement, C, C++, C# Programmng
 - 🌱 I’m currently learning Unity Game Engine
-- 💞️ I’m looking to collaborate on any progeject related to Games and XR
+- 💞️ I’m looking to collaborate on any project related to Games and XR
 - 📫 How to reach me avishka1shinwa@gmail.com
 
 <!---
